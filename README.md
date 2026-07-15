@@ -9,6 +9,9 @@
   <a href="https://govardhangopu.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Website" />
   </a>
+  <a href="mailto:govardhangopu.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 ---
@@ -18,25 +21,22 @@
 I am a dedicated software developer specializing in building modern, performant web applications. My engineering philosophy combines visual excellence with robust architectures, security assertions, and clean data modeling.
 
 * 🤖 **AI Agent Systems:** Designing autonomous Reasoning-Action loops utilizing the **Google GenAI SDK**, tool/function calling patterns, and prompt injection gates.
-* 💻 **Full-Stack Engineering:** Writing clean API endpoints using **Node.js (Express)** with optimized **MySQL** database schemas and index tuning.
-* 🎨 **Polished UX/UI:** Coding custom visual designs featuring frosted glass glassmorphism, responsive CSS variables, and canvas particle grids from scratch.
+* 💻 **Full-Stack Engineering:** Integrating interactive **React.js** frontends with performant **Node.js (Express)** backends and optimized **MySQL** database schemas.
 
 ---
 
 ### 🛠️ Core Stack & Technologies
 
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <br />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Google%20GenAI%20SDK-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google GenAI SDK" />
-</div>
+| Layer | Technologies & Badges |
+| :--- | :--- |
+| **Languages** | `JavaScript` `Python` `SQL` `HTML5` `CSS3` |
+| **Frameworks & Libraries** | `Node.js` `Express` `React.js` `Flask` |
+| **AI Systems** | `Google GenAI SDK` `Reasoning-Action Loops` `Tool Calling` |
+| **Databases & Tools** | `MySQL` `Git` `Vercel` `JWT` |
 
-| Area | Specialized Expertise |
+<br/>
+
+| Domain | Specialized Expertise |
 | :--- | :--- |
 | **AI logic** | Google GenAI SDK, Structured Function Calling, Prompt Gating, Threat Modeling |
 | **Frontend** | React.js, Responsive CSS layouts, Vanilla Animations, Recharts charts, Lucide Icons |
