@@ -3,10 +3,10 @@
   <h3>Full Stack Developer & AI Agent Engineer</h3>
   <p>Building high-fidelity web experiences, secure backends, and autonomous agent loops.</p>
   
-  <a href="https://www.linkedin.com/in/govardhangopu/">
+  <a href="https://www.linkedin.com/in/govardhangopu/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://govardhangopu.vercel.app/">
+  <a href="https://govardhangopu.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Website" />
   </a>
 </div>
@@ -68,9 +68,9 @@ I am a dedicated software developer specializing in building modern, performant 
 <p align="center">
   <a href="https://github.com/govardhangopu">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=govardhangopu&layout=compact&bg_color=090e1a&title_color=22d3ee&text_color=cbd5e1&icon_color=c084fc&border_color=22d3ee30&langs_count=6" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=govardhangopu&layout=compact&bg_color=ffffff&title_color=0f172a&text_color=334155&icon_color=4f46e5&border_color=e2e8f0&langs_count=6" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=govardhangopu&layout=compact&bg_color=090e1a&title_color=22d3ee&text_color=cbd5e1&icon_color=c084fc&border_color=22d3ee30&langs_count=6" width="490" alt="Top Languages" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=govardhangopu&layout=compact&bg_color=090e1a&title_color=22d3ee&text_color=cbd5e1&icon_color=c084fc&border_color=22d3ee30&langs_count=6" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=govardhangopu&layout=compact&bg_color=ffffff&title_color=0f172a&text_color=334155&icon_color=4f46e5&border_color=e2e8f0&langs_count=6" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=govardhangopu&layout=compact&bg_color=090e1a&title_color=22d3ee&text_color=cbd5e1&icon_color=c084fc&border_color=22d3ee30&langs_count=6" width="490" alt="Top Languages" />
     </picture>
   </a>
 </p>
@@ -102,5 +102,5 @@ I am a dedicated software developer specializing in building modern, performant 
 ---
 
 <div align="center">
-  <span>Let's collaborate! Feel free to reach out via <a href="https://www.linkedin.com/in/govardhangopu/">LinkedIn</a> or check out my <a href="https://github.com/govardhangopu/Portfolio">Portfolio</a>.</span>
+  <span>Let's collaborate! Feel free to reach out via <a href="https://www.linkedin.com/in/govardhangopu/" target="_blank" rel="noopener noreferrer">LinkedIn</a> or check out my <a href="https://govardhangopu.vercel.app/" target="_blank" rel="noopener noreferrer">Portfolio</a>.</span>
 </div>
