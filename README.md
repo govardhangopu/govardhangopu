@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/govardhangopu/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="#">
+  <a href="https://govardhangopu.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Website" />
   </a>
 </div>
