@@ -51,9 +51,9 @@ I am a dedicated software developer specializing in building modern, performant 
 <p align="center">
   <a href="https://github.com/govardhangopu">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=govardhangopu&show_icons=true&bg_color=090e1a&title_color=22d3ee&text_color=cbd5e1&icon_color=c084fc&border_color=22d3ee30&rank_icon=github" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=govardhangopu&show_icons=true&bg_color=ffffff&title_color=0f172a&text_color=334155&icon_color=4f46e5&border_color=e2e8f0&rank_icon=github" />
-      <img src="https://github-readme-stats.vercel.app/api?username=govardhangopu&show_icons=true&bg_color=090e1a&title_color=22d3ee&text_color=cbd5e1&icon_color=c084fc&border_color=22d3ee30&rank_icon=github" height="195" alt="GitHub Stats" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=govardhangopu&show_icons=true&bg_color=090e1a&title_color=22d3ee&text_color=cbd5e1&icon_color=c084fc&border_color=22d3ee30&rank_icon=github" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=govardhangopu&show_icons=true&bg_color=ffffff&title_color=0f172a&text_color=334155&icon_color=4f46e5&border_color=e2e8f0&rank_icon=github" />
+      <img src="https://github-stats-extended.vercel.app/api?username=govardhangopu&show_icons=true&bg_color=090e1a&title_color=22d3ee&text_color=cbd5e1&icon_color=c084fc&border_color=22d3ee30&rank_icon=github" height="195" alt="GitHub Stats" />
     </picture>
   </a>
   <a href="https://github.com/govardhangopu">
@@ -68,9 +68,9 @@ I am a dedicated software developer specializing in building modern, performant 
 <p align="center">
   <a href="https://github.com/govardhangopu">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=govardhangopu&layout=compact&bg_color=090e1a&title_color=22d3ee&text_color=cbd5e1&icon_color=c084fc&border_color=22d3ee30&langs_count=6" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=govardhangopu&layout=compact&bg_color=ffffff&title_color=0f172a&text_color=334155&icon_color=4f46e5&border_color=e2e8f0&langs_count=6" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=govardhangopu&layout=compact&bg_color=090e1a&title_color=22d3ee&text_color=cbd5e1&icon_color=c084fc&border_color=22d3ee30&langs_count=6" width="490" alt="Top Languages" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=govardhangopu&layout=compact&bg_color=090e1a&title_color=22d3ee&text_color=cbd5e1&icon_color=c084fc&border_color=22d3ee30&langs_count=6" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs?username=govardhangopu&layout=compact&bg_color=ffffff&title_color=0f172a&text_color=334155&icon_color=4f46e5&border_color=e2e8f0&langs_count=6" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=govardhangopu&layout=compact&bg_color=090e1a&title_color=22d3ee&text_color=cbd5e1&icon_color=c084fc&border_color=22d3ee30&langs_count=6" width="490" alt="Top Languages" />
     </picture>
   </a>
 </p>
